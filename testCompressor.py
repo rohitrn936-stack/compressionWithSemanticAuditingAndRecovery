@@ -28,7 +28,7 @@ result = compressor.compress_prompt(
 )
 
 # Display results
-print("\n--- ORIGINAL PROMPT ---")
+print("\n---- ORIGINAL PROMPT ----")
 print(prompt)
 
 print("\n--- COMPRESSED PROMPT ---")
